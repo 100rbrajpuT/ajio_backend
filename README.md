@@ -5,21 +5,29 @@ Our site is deployed here https://ajio-masai.herokuapp.com/ Please check it out.
 This is a working clone of the Ajio website, this project has been done in order to learn the basic working of a website by implementing HTML5, CSS3, JavaScript, JS DOM, MongoDB, Express.js, and Node.js. Working on this project helped us to learn a lot of new things that goes into building a website. This is our collaborative project under the guidance of MASAI Team to facilitate the full stack web development curriculam.
 Uses
 We can sign in/login,signup,add products to cart,buy products from the site.
-
+<br>
 Functionalities Added
+<br>
 Login/Register page
+<br>
 Landing Page
+<br>
 Filtering and Sorting
+<br>
 Payment Page
+<br>
 Products Add to Cart & Delete from Cart
+<br>
 Payment Page
+<br>
 Team Members
+<br>
 Ankush Gupta
 Srinidhi V
 Praful Deore
 Prashant SL
 Saurabh Kumar Singh
-Tech Stacks / Tools
+Tech Stacks / Tools :-<br>
 HTML5
 CSS3
 JavaScript
