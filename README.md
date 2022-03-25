@@ -36,3 +36,5 @@ Express.js
 Node.js
 GitHub
 Heroku
+<img width="960" alt="ajio" src="https://user-images.githubusercontent.com/74128940/160057152-17266bf5-2f87-472b-b092-f2232566aab2.png">
+<img width="960" alt="ajio2" src="https://user-images.githubusercontent.com/74128940/160057173-41034889-c13f-42f2-98f0-c62bcfdb8616.png">
