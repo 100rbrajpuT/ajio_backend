@@ -23,7 +23,7 @@ Payment Page
 Team Members
 <br>
 Ankush Gupta
-Srinidhi V
+
 Praful Deore
 Prashant SL
 Saurabh Kumar Singh
@@ -38,3 +38,6 @@ GitHub
 Heroku
 <img width="960" alt="ajio" src="https://user-images.githubusercontent.com/74128940/160057152-17266bf5-2f87-472b-b092-f2232566aab2.png">
 <img width="960" alt="ajio2" src="https://user-images.githubusercontent.com/74128940/160057173-41034889-c13f-42f2-98f0-c62bcfdb8616.png">
+
+Srinidhi V<img width="960" alt="ajio" src="https://user-images.githubusercontent.com/74128940/193581576-61b6ce0e-06e8-4978-9210-ae4e4b71c0f7.png">
+
